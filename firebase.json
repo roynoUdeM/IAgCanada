@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "iagcanada-observatoire",
+    "public": "iagcanada-site",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}
