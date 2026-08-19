@@ -4,7 +4,7 @@ export const NATIONAL_DATA = {
     {
       "id": "Quebec",
       "url": "https://iagcss.web.app",
-      "labelFr": "Quebec",
+      "labelFr": "Québec",
       "labelEn": "Quebec",
       "version": "1.46"
     },
@@ -13,14 +13,14 @@ export const NATIONAL_DATA = {
       "url": "https://iagontario.web.app",
       "labelFr": "Ontario",
       "labelEn": "Ontario",
-      "version": "1.0.1"
+      "version": "1.1.0"
     },
     {
       "id": "British Columbia",
       "url": "https://iagcb-observatoire.web.app",
       "labelFr": "Colombie-Britannique",
       "labelEn": "British Columbia",
-      "version": "0.5.1"
+      "version": "0.6.0"
     }
   ],
   "records": [

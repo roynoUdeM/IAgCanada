@@ -54,9 +54,9 @@ const records = [
 const payload = {
   generatedAt: "2026-08-19",
   provinces: [
-    { id: "Quebec", url: sourceSites.Quebec, labelFr: "Quebec", labelEn: "Quebec", version: "1.46" },
-    { id: "Ontario", url: sourceSites.Ontario, labelFr: "Ontario", labelEn: "Ontario", version: "1.0.1" },
-    { id: "British Columbia", url: sourceSites["British Columbia"], labelFr: "Colombie-Britannique", labelEn: "British Columbia", version: "0.5.1" },
+    { id: "Quebec", url: sourceSites.Quebec, labelFr: "Québec", labelEn: "Quebec", version: "1.46" },
+    { id: "Ontario", url: sourceSites.Ontario, labelFr: "Ontario", labelEn: "Ontario", version: "1.1.0" },
+    { id: "British Columbia", url: sourceSites["British Columbia"], labelFr: "Colombie-Britannique", labelEn: "British Columbia", version: "0.6.0" },
   ],
   records,
 };
